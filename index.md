@@ -3,6 +3,6 @@
 Set of recipes as given by my gramma.
 
 - Pizzas (TODO)
-- Sauces (TODO)
+    - [base](./pizzas/base.md)
 - spreads (TODO)
 - bread
